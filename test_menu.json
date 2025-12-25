@@ -1,0 +1,237 @@
+{
+    "bottom_bun": {
+        "price": 3.0,
+        "unique_bonus": 1.0
+    },
+    "top_bun": {
+        "price": 3.0,
+        "unique_bonus": 1.0
+    },
+    "categories": {
+        "misc": [
+            {
+                "name": "warped_fungus",
+                "price": 7.0,
+                "finish_chance": 20.0,
+                "unique_bonus": 3.0,
+                "enabled": true
+            },
+            {
+                "name": "red_mushroom",
+                "price": 3.0,
+                "finish_chance": 30.0,
+                "unique_bonus": 1.0,
+                "enabled": true
+            },
+            {
+                "name": "crimson_fungus",
+                "price": 8.0,
+                "finish_chance": 10.0,
+                "unique_bonus": 2.0,
+                "enabled": true
+            },
+            {
+                "name": "portobello",
+                "price": 6.0,
+                "finish_chance": 30.0,
+                "unique_bonus": 2.0,
+                "enabled": true
+            },
+            {
+                "name": "cheese",
+                "price": 1.0,
+                "finish_chance": 20.0,
+                "unique_bonus": 2.0,
+                "enabled": true
+            },
+            {
+                "name": "tofu",
+                "price": 6.0,
+                "finish_chance": 20.0,
+                "unique_bonus": 1.0,
+                "enabled": true
+            },
+            {
+                "name": "hash_brown",
+                "price": 5.0,
+                "finish_chance": 25.0,
+                "unique_bonus": 0.0,
+                "enabled": true
+            },
+            {
+                "name": "brown_mushroom",
+                "price": 4.0,
+                "finish_chance": 40.0,
+                "unique_bonus": 1.0,
+                "enabled": true
+            }
+        ],
+        "veggies": [
+            {
+                "name": "roasted_carrot",
+                "price": 5.0,
+                "finish_chance": 40.0,
+                "unique_bonus": 0.0,
+                "enabled": true
+            },
+            {
+                "name": "cabbage",
+                "price": 2.0,
+                "finish_chance": 40.0,
+                "unique_bonus": 1.0,
+                "enabled": true
+            },
+            {
+                "name": "kelp",
+                "price": 3.0,
+                "finish_chance": 60.0,
+                "unique_bonus": 2.0,
+                "enabled": true
+            },
+            {
+                "name": "onion",
+                "price": 3.0,
+                "finish_chance": 40.0,
+                "unique_bonus": 1.0,
+                "enabled": true
+            },
+            {
+                "name": "cucumber",
+                "price": 6.0,
+                "finish_chance": 20.0,
+                "unique_bonus": 1.0,
+                "enabled": true
+            },
+            {
+                "name": "pickled_bamboo",
+                "price": 4.0,
+                "finish_chance": 40.0,
+                "unique_bonus": 1.0,
+                "enabled": true
+            },
+            {
+                "name": "pickled_beetroot",
+                "price": 2.0,
+                "finish_chance": 20.0,
+                "unique_bonus": 1.0,
+                "enabled": true
+            },
+            {
+                "name": "pickled_onion",
+                "price": 1.0,
+                "finish_chance": 40.0,
+                "unique_bonus": 2.0,
+                "enabled": true
+            },
+            {
+                "name": "pickled_cucumber",
+                "price": 4.0,
+                "finish_chance": 40.0,
+                "unique_bonus": 3.0,
+                "enabled": true
+            },
+            {
+                "name": "pickled_pepper",
+                "price": 4.0,
+                "finish_chance": 20.0,
+                "unique_bonus": 2.0,
+                "enabled": true
+            },
+            {
+                "name": "tomato",
+                "price": 2.0,
+                "finish_chance": 40.0,
+                "unique_bonus": 1.0,
+                "enabled": true
+            },
+            {
+                "name": "chorus_grain",
+                "price": 8.0,
+                "finish_chance": 15.0,
+                "unique_bonus": 2.0,
+                "enabled": true
+            }
+        ],
+        "meat": [
+            {
+                "name": "mutton",
+                "price": 6.0,
+                "finish_chance": 50.0,
+                "unique_bonus": 0.0,
+                "enabled": true
+            },
+            {
+                "name": "bacon",
+                "price": 6.0,
+                "finish_chance": 60.0,
+                "unique_bonus": 0.0,
+                "enabled": true
+            },
+            {
+                "name": "cod",
+                "price": 8.0,
+                "finish_chance": 50.0,
+                "unique_bonus": 0.0,
+                "enabled": true
+            },
+            {
+                "name": "patty",
+                "price": 6.0,
+                "finish_chance": 60.0,
+                "unique_bonus": 0.0,
+                "enabled": true
+            },
+            {
+                "name": "chicken",
+                "price": 5.0,
+                "finish_chance": 60.0,
+                "unique_bonus": 0.0,
+                "enabled": true
+            },
+            {
+                "name": "lamprey",
+                "price": 8.0,
+                "finish_chance": 40.0,
+                "unique_bonus": 1.0,
+                "enabled": true
+            },
+            {
+                "name": "salmon",
+                "price": 10.0,
+                "finish_chance": 40.0,
+                "unique_bonus": 0.0,
+                "enabled": true
+            },
+            {
+                "name": "egg",
+                "price": 3.0,
+                "finish_chance": 40.0,
+                "unique_bonus": 0.0,
+                "enabled": true
+            }
+        ],
+        "sauce": [
+            {
+                "name": "bbq",
+                "price": 0.0,
+                "finish_chance": 40.0,
+                "unique_bonus": 3.0,
+                "enabled": true
+            },
+            {
+                "name": "honey",
+                "price": 4.0,
+                "finish_chance": 20.0,
+                "unique_bonus": 2.0,
+                "enabled": false
+            },
+            {
+                "name": "tomato_sauce",
+                "price": 0.0,
+                "finish_chance": 30.0,
+                "unique_bonus": 2.0,
+                "enabled": true
+            }
+        ]
+    }
+}
